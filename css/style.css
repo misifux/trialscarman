@@ -5,3 +5,13 @@ body {
 #title{
     text-align: center;
 }
+
+#img-div{
+    background-color: white;
+    width:80%; 
+    display:block;
+margin:auto;
+
+
+}
+
