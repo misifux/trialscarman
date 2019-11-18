@@ -11,6 +11,11 @@ li{
     margin-bottom: 10px;
 }
 
+footer{
+    width:80%;
+    display:block;
+    text-align:  center;
+}
 #title{
     text-align: center;
 }
